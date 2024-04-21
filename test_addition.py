@@ -1,4 +1,4 @@
-import math_operations
+import addtion
 
 def test_addition():
-    assert math_operations.add(2, 3) == 5
+    assert addtion.add(2, 3) == 5
